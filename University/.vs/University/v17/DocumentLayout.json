@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\views\\users\\mycourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\views\\users\\mycourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.services\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|solutionrelative:university.services\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.services\\services\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|solutionrelative:university.services\\services\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.web\\views\\courses\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94747220-46B7-42F7-BFD1-5FD53C31963A}|University.Web\\University.Web.csproj|solutionrelative:university.web\\views\\courses\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|solutionrelative:university.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.services\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAAE53F-8B3A-4C65-987F-C71E38D2DA7A}|University.Services\\University.Services.csproj|solutionrelative:university.services\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CC223E-5060-48BA-AE28-F74CE900C26C}|University.Entity\\University.Entity.csproj|c:\\users\\ruba mahmoud\\documents\\c#workspace\\university\\university.entity\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CC223E-5060-48BA-AE28-F74CE900C26C}|University.Entity\\University.Entity.csproj|solutionrelative:university.entity\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "University.Services\\Services\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\IEnrollmentService.cs",
+              "RelativeToolTip": "University.Services\\Services\\IEnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:00:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Users\\MyCourses.cshtml",
+              "RelativeDocumentMoniker": "University.Web\\Views\\Users\\MyCourses.cshtml",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Users\\MyCourses.cshtml",
+              "RelativeToolTip": "University.Web\\Views\\Users\\MyCourses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:57:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "University.Web\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "University.Web\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAADDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:56:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "University.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "University.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T14:54:44.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "University.Web\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "University.Web\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowHAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:49:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "University.Services\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "University.Services\\Services\\EnrollmentService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:19:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Entity\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "University.Entity\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Entity\\Entities\\User.cs",
+              "RelativeToolTip": "University.Entity\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:15:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "University.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "University.Services\\Services\\UserService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwEQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:40:48.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "University.Services\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Services\\Services\\IUserService.cs",
+              "RelativeToolTip": "University.Services\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:37:51.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Courses\\Show.cshtml",
+              "RelativeDocumentMoniker": "University.Web\\Views\\Courses\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Views\\Courses\\Show.cshtml",
+              "RelativeToolTip": "University.Web\\Views\\Courses\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T13:12:25.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "University.Web\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Ruba Mahmoud\\Documents\\c#workspace\\University\\University.Web\\Controllers\\CoursesController.cs*",
+              "RelativeToolTip": "University.Web\\Controllers\\CoursesController.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwG0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:58:49.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

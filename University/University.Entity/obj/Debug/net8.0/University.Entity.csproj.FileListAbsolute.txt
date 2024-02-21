@@ -1,0 +1,14 @@
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\bin\Debug\net8.0\University.Entity.deps.json
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\bin\Debug\net8.0\University.Entity.dll
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\bin\Debug\net8.0\University.Entity.pdb
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.AssemblyInfoInputs.cache
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.AssemblyInfo.cs
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.dll
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\refint\University.Entity.dll
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.pdb
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\ref\University.Entity.dll
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\bin\Debug\net8.0\University.Entity.runtimeconfig.json
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.genruntimeconfig.cache
+C:\Users\Ruba Mahmoud\Documents\c#workspace\University\University.Entity\obj\Debug\net8.0\University.Entity.csproj.AssemblyReference.cache
