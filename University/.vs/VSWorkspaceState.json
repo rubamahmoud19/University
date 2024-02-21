@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServicesLayer",
+    "\\WebLayer",
+    "\\WebLayer\\Controllers"
+  ],
+  "SelectedNode": "\\WebLayer\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
